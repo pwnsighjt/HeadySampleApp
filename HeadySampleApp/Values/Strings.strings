@@ -1,0 +1,12 @@
+//
+//  HeadySampleApp
+//
+//  Created by mac on 19/05/18.
+//  Copyright © 2018 Heady. All rights reserved.
+//
+
+"ok" = "OK";
+
+//!--Basic--
+"app_name" = "Heady";
+"internet_not_found" = "No internet connection available!";
